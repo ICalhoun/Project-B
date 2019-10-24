@@ -1,3 +1,8 @@
+/* Ian Calhoun
+   COMP 350-003
+   10/24/2019 */
+ 
+
 void printString(char*);
 void printChar(char);
 void readString(char*);
